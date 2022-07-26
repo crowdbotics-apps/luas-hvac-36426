@@ -1214,7 +1214,7 @@
 "@screens/appointment-calendar@file:./screens/appointment-calendar":
   version "1.0.0"
 
-"@screens/appointment-calendar@file:./screens/appointment-calendar/":
+"@screens/login@file:./screens/login/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
